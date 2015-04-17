@@ -1,6 +1,6 @@
 Git Getting Started App
 ___
 
-# About
+# About This Tutorial
 
 Stuff about this tutorial!
